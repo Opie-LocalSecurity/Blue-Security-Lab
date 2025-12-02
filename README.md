@@ -9,5 +9,5 @@
 - [Critical Firewall Rule: Preventing WAN DHCP Discovery](Components/OPNsense/004-Critical_Firewall_Rule-Preventing_WAN_DHCP_Discovery.md)
 - [Intrusion Detection](Components/OPNsense/005-Intrusion_Detection.md)
 
-## Corwie Honeypot
+## Cowrie Honeypot
 - [WIP: Install Cowrie HoneyPot on Proxmox VM](Components/Cowrie/001-Install-Cowrie-Honeypot.md)
